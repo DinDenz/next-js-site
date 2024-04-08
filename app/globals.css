@@ -44,8 +44,8 @@ a:hover {
 }
 
 .post p {
-  margin-top: 10px;
+  margin: 10px 0 10px 0;
 }
 .post a {
-  color:blueviolet;
+  color: blueviolet;
 }
