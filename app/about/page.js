@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "О нас",
+  description: "Страница о нас",
+  //любые метатеги
+};
 
 
 const About = () => {
